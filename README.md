@@ -2,7 +2,7 @@
 
 Uma aplicação web dinâmica e interativa baseada no universo de Yu-Gi-Oh!, projetada para colocar em prática conceitos avançados de estilização responsiva, transições de CSS e manipulação dinâmica de elementos via JavaScript.
 
-## 🔗 Link do Projeto deitado em produção
+## 🔗 Link do Projeto
 👉 [Acesse o site funcionando aqui](https://aalexdev.github.io/Yu-Gi-Oh-Cards/)
 
 ## 🎯 Funcionalidades Principais
