@@ -4,7 +4,7 @@ Uma aplicação web dinâmica e interativa baseada no universo de Yu-Gi-Oh!, pro
 
 ## 🔗 Link do Projeto
 👉 [Acesse o site funcionando aqui](https://aalexdev.github.io/Yu-Gi-Oh-Cards/)
-     
+      
 ## 🎯 Funcionalidades Principais
 - **Navegação Dinâmica:** Transição suave entre diferentes cartas através de setas direcionais laterais.
 - **Mecânica do Card Game:** Ao interagir e clicar diretamente sobre a carta, ela rotaciona dinamicamente simulando a mudança para o **Modo de Defesa** do jogo clássico.
