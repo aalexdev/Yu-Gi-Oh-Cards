@@ -18,5 +18,5 @@ Uma aplicação web dinâmica e interativa baseada no universo de Yu-Gi-Oh!, pro
 ## 📂 Como executar o projeto localmente
 
 1. Clone o repositório:
-   ```bash
+   ```bash 
    git clone [https://github.com/aalexdev/Yu-Gi-Oh-Cards.git](https://github.com/aalexdev/Yu-Gi-Oh-Cards.git)
